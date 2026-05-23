@@ -3,7 +3,7 @@
 
 [ME Analyzer News Feed](https://twitter.com/platomaniac)
 
-[ME Analyzer Discussion Topic](https://winraid.level1techs.com/t/me-analyzer-intel-engine-firmware-analysis-tool-discussion/30876)
+**[Bios-Doctor Forum](https://bios-doctor.com)**
 
 [Intel Engine/Graphics/Independent Firmware Introduction](https://winraid.level1techs.com/t/intel-converged-security-management-engine-drivers-firmware-and-tools/30719)
 
